@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126688598076",
+    "project_id": "kashtakala-ffae1",
+    "storage_bucket": "kashtakala-ffae1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126688598076:android:c9830d35708bb9edb08b39",
+        "android_client_info": {
+          "package_name": "com.example.kashtakala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzU8MqT_IakO1__Ykap7ANl5TrTRVczDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
